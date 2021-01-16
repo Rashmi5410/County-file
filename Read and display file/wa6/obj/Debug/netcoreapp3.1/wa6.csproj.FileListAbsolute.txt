@@ -1,0 +1,13 @@
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.exe
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.deps.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.runtimeconfig.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.runtimeconfig.dev.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.dll
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\bin\Debug\netcoreapp3.1\wa6.pdb
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.csprojAssemblyReference.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.AssemblyInfoInputs.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.AssemblyInfo.cs
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.csproj.CoreCompileInputs.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.dll
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.pdb
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\realwa6\wa6\obj\Debug\netcoreapp3.1\wa6.genruntimeconfig.cache
